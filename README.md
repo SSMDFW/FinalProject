@@ -23,7 +23,7 @@ Team Zombie found inspiration  for this project at the website: http://maxberggr
 
 Different viruses spread at different rates so we will use a sample of various viruses to evaluate the spread of the infections starting from our selected cities:  New York, Atlanta, Dallas, Denver and Los Angeles.  We chose these cities because they are major cities with a significant population that are in different regions across the United States and would be a good representation for the country.
 
-We are using information from the Center of Disease Control and Prevention (https://wwwn.cdc.gov/norsdashboard/)includes incubation time and speed of the outbreak.  These parameters will be paired with one of the designated movies as a choice for the user to select.  This selection along with the user’s city choice will produce a visualization modeling the projected outbreak based on the designated parameters.
+We are using information from the Center of Disease Control and Prevention (https://wwwn.cdc.gov/norsdashboard/) to gather information on incubation time and speed of outbreaks.  These parameters will be paired with one of the designated movies as a choice for the user to select.  This selection along with the user’s city choice will produce a visualization modeling the projected outbreak based on the designated parameters.
 
 
 
@@ -86,7 +86,7 @@ import pandas as pd
 
 Silvana Murphy- Initial Work - [SMU Team Crime- Project 2](https://github.com/SSMDFW)
 
-Lori B. - Initial Work - [SMU Team Crime- Project 2](https://github.com/)
+Lori Brady - Initial Work - [SMU Team Crime- Project 2](https://github.com/)
 
 Mabel Gutierrez- Initial Work - [SMU Team Crime- Project 2](https://github.com/mabel912)
 
