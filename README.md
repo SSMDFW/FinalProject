@@ -84,9 +84,9 @@ import pandas as pd
 
 ## Authors
 
-S. Murphy- Initial Work - [SMU Team Crime- Project 2](https://github.com/SSMDFW)
+Silvana Murphy- Initial Work - [SMU Team Crime- Project 2](https://github.com/SSMDFW)
 
-Lori  - Initial Work - [SMU Team Crime- Project 2](https://github.com/ellisec)
+Lori B. - Initial Work - [SMU Team Crime- Project 2](https://github.com/)
 
 Mabel Gutierrez- Initial Work - [SMU Team Crime- Project 2](https://github.com/mabel912)
 
