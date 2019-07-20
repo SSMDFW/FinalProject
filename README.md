@@ -91,7 +91,7 @@ import numpy
 
 Silvana Murphy- Initial Work - [SMU Team Crime- Project 2](https://github.com/SSMDFW)
 
-Lori Brady - Initial Work - [SMU Team Crime- Project 2](https://github.com/)
+Lori Brady - Initial Work - [SMU Team Crime- Project 2](https://github.com/loribeth18)
 
 Mabel Gutierrez- Initial Work - [SMU Team Crime- Project 2](https://github.com/mabel912)
 
