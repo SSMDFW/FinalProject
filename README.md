@@ -33,7 +33,7 @@ The purpose is to determine the rate of which a virus spreads within the US.  We
 
 ## Methodology
 
-We found information for US populations based on zipcodes from https://data.world.  We are using population data from the year 2016 for our analysis.  We merged this with data from uszipcodes in the pandas library using the common zipcodes.  From this library, we were able to include city, state, latitude, longitude, and radius (miles).  We will compile this information  to use for our data analysis.
+We found information for US populations based on zipcodes from https://data.world for the year 2016.  We were able to find use the uszipcode library in pandas to find city, state, latitude, longitude, and radius (miles).  We will compile this information to use for our data analysis.
 
 
 ## Key Documents
