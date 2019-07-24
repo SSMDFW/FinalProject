@@ -21,15 +21,16 @@
 
 Team Zombie found inspiration  for this project at the website: http://maxberggren.se/2014/11/27/model-of-a-zombie-outbreak/.  This website projects the spread of a hypothetically zombie outbreak that starts from a location in Sweden, Norway and Finland.  We will use this as a framework to model a zombie outbreak in the United States.  
 
-Different viruses spread at different rates so we will use a sample of various viruses to evaluate the spread of the infections starting from our selected cities:  New York, Atlanta, Dallas, Denver and Los Angeles.  We chose these cities because they are major cities with a significant population that are in different regions across the United States and would be a good representation for the country.
+Different viruses spread at different rates so we will use different infection rates evaluate the spread of the infections starting from our selected cities:  New York, Atlanta, Dallas, Chicago and Los Angeles.  We chose these cities because they are major cities with a significant population that are in different regions across the United States and would be a good representation for the country.
 
-We are using information from the Center of Disease Control and Prevention (https://wwwn.cdc.gov/norsdashboard/) to gather information on incubation time and speed of outbreaks.  These parameters will be paired with one of the designated movies as a choice for the user to select.  This selection along with the user’s city choice will produce a visualization modeling the projected outbreak based on the designated parameters.
+We are using information from the Center of Disease Control and Prevention (https://wwwn.cdc.gov/norsdashboard/) to gather information the number of person-to-person outbreaks and the percentage of the population that gets regular check ups with the intent to see how this information would factor in to our outbreak spread.  After evaluating the k-means result, we found this information not to be pertinent factors and decided to focus on population and density instead.  
 
+There are five movies that we selected to represent the spread of the outbreak across the US.  Using information from https://zombie.fandom.com/wiki/Zombie_Comparison_Chart, we found outbreak spead for our five movies and then ordered them outbreak speed to fastest.  The user will be prompted to choose a movie(representing the speed of the outbreak) and city which will then produce an animation of how the outbreak would be projected to spread with those given parameters.  
 
 
 ## Purpose of the Analysis
 
-The purpose is to determine the rate of which a virus spreads within the US.  We focused our research on only human-to-human contact viruses and used variables such as speed, incubation and zip code population to determine the expected spread of the outbreak based on our predictive analysis. 
+The purpose is to determine the rate of which a virus(zombie outbreak) spreads within the US.  We focused our research on only human-to-human contact viruses and used variables such as outbreak speed, incubation time, population and population density determine the expected spread of the outbreak based on our predictive analysis. 
 
 ## Methodology
 
