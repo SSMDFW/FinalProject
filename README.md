@@ -25,7 +25,7 @@ Different viruses spread at different rates so we will use different infection r
 
 We are using information from the Center of Disease Control and Prevention (https://wwwn.cdc.gov/norsdashboard/) to gather information the number of person-to-person outbreaks and the percentage of the population that gets regular check ups with the intent to see how this information would factor in to our outbreak spread.  After evaluating the k-means result, we found this information not to be pertinent factors and decided to focus on population and density instead.  
 
-There are five movies that we selected to represent the spread of the outbreak across the US.  Using information from https://zombie.fandom.com/wiki/Zombie_Comparison_Chart, we found outbreak spead for our five movies and then ordered them outbreak speed to fastest.  The user will be prompted to choose a movie(representing the speed of the outbreak) and city which will then produce an animation of how the outbreak would be projected to spread with those given parameters.  
+There are five movies that we selected to represent the spread of the outbreak across the US.  Using information from https://zombie.fandom.com/wiki/Zombie_Comparison_Chart, we found outbreak spead for our five movies and then ordered them outbreak speed to fastest (1-Living Dead Trilogy, 2-The Walking Dead,3-Zombieland,4-28 Days Later,5-World War Z (film)).  The user will be prompted to choose a movie(representing the speed of the outbreak) and city which will then produce an animation of how the outbreak would be projected to spread with those given parameters.  
 
 
 ## Purpose of the Analysis
@@ -34,7 +34,10 @@ The purpose is to determine the rate of which a virus(zombie outbreak) spreads w
 
 ## Methodology
 
-We found information for US populations based on zipcodes from https://data.world for the year 2016.  We were able to find use the uszipcode library in pandas to find city, state, latitude, longitude, and radius (miles).  We will compile this information to use for our data analysis.
+
+
+
+
 
 
 ## Key Documents
