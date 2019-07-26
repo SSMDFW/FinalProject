@@ -19,11 +19,11 @@
 
 # Team Zombie
 
-Team Zombie found inspiration  for this project at the website: http://maxberggren.se/2014/11/27/model-of-a-zombie-outbreak/.  This website projects the spread of a hypothetically zombie outbreak that starts from a location in Sweden, Norway and Finland.  We will use this as a framework to model a zombie outbreak in the United States.  
+Team Zombie found inspiration  for this project at the website: http://maxberggren.se/2014/11/27/model-of-a-zombie-outbreak/.  This website projects the spread of a hypothetically zombie outbreak that starts from a location in Sweden, Norway and Finland.  A similar concept was used to model a zombie outbreak in the United States.  
 
 Different viruses spread at different rates so we will use different infection rates evaluate the spread of the infections starting from our selected cities:  New York, Atlanta, Dallas, Chicago and Los Angeles.  We chose these cities because they are major cities with a significant population that are in different regions across the United States and would be a good representation for the country.
 
-We are using information from the Center of Disease Control and Prevention (https://wwwn.cdc.gov/norsdashboard/) to gather information the number of person-to-person outbreaks and the percentage of the population that gets regular check ups with the intent to see how this information would factor in to our outbreak spread.  After evaluating the k-means result, we found this information not to be pertinent factors and decided to focus on population and density instead.  
+We used information from the Center of Disease Control and Prevention (https://wwwn.cdc.gov/norsdashboard/) to gather information the number of person-to-person outbreaks and the percentage of the population that gets regular check ups with the intent to see how this information would factor in to our outbreak spread.  After evaluating the k-means result, we found this information not to be a significant factor in relation to how the virus spread and decided to focus on population and density instead.  
 
 There are five movies that we selected to represent the spread of the outbreak across the US.  Using information from https://zombie.fandom.com/wiki/Zombie_Comparison_Chart, we found outbreak spead for our five movies and then ordered them outbreak speed to fastest (1-Living Dead Trilogy, 2-The Walking Dead,3-Zombieland,4-28 Days Later,5-World War Z (film)).  The user will be prompted to choose a movie(representing the speed of the outbreak) and city which will then produce an animation of how the outbreak would be projected to spread with those given parameters.  
 
