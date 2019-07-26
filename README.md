@@ -32,34 +32,31 @@ There are five movies that we selected to represent the spread of the outbreak a
 
 The purpose is to determine the rate of which a virus(zombie outbreak) spreads within the US.  We focused our research on only human-to-human contact viruses and used variables such as outbreak speed, incubation time, population and population density determine the expected spread of the outbreak based on our predictive analysis. 
 
-## Methodology
 
 
-
-
-
-
-
-## Key Documents
+## Visualizations
 
 The following data sets were used throughout the project.
 
-### Atlanta
+
+###Outbreak Spread by City
+
 [![INSERT YOUR GRAPHIC HERE](atlantaAll.png)]()
 
-### Chicago
+
 [![INSERT YOUR GRAPHIC HERE](chicagoAll.png)]()
 
-### Dallas
+
 [![INSERT YOUR GRAPHIC HERE](dallasAll.png)]()
 
-### Los Angeles
+
 [![INSERT YOUR GRAPHIC HERE](los_angelesAll.png)]()
 
-### New York
+
 [![INSERT YOUR GRAPHIC HERE](new_yorkAll.png)]()
 
 
+### SEIR Model
 
 
 
