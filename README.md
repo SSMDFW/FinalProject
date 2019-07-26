@@ -39,7 +39,7 @@ The purpose is to determine the rate of which a virus(zombie outbreak) spreads w
 The following data sets were used throughout the project.
 
 
-###Outbreak Spread by City
+### Outbreak Spread by City
 
 [![INSERT YOUR GRAPHIC HERE](atlantaAll.png)]()
 
