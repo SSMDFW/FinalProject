@@ -38,6 +38,9 @@ The purpose is to determine the rate of which a virus(zombie outbreak) spreads w
 
 The following data sets were used throughout the project.
 
+### Movie Information Table
+[![INSERT YOUR GRAPHIC HERE](movieTable.png)]()
+
 
 ### Outbreak Spread by City
 
