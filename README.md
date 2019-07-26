@@ -12,7 +12,6 @@
 * [Findings](#findings)
 * [Coding Style](#coding-style)
 * [Coding Documentation](#coding-documentation)
-* [API Calls](#API-calls)
 * [Authors](#authors)
 * [Acknowledgments](#acknowledgments)
 
@@ -100,4 +99,19 @@ Lori Brady - Initial Work - [SMU Team Zombie - Project 3](https://github.com/lor
 Mabel Gutierrez- Initial Work - [SMU Team Zombie - Project 3](https://github.com/mabel912)
 
 Velindia Lucas - Initial Work - [SMU Team Zombie - Project 3](https://github.com/chele0630)
+
+
+## Acknowledgements
+
+http://maxberggren.se/2014/11/27/model-of-a-zombie-outbreak/
+http://maxberggren.se/2014/11/27/model-of-a-zombie-outbreak/
+http://adventuresinpython.blogspot.com/2012/08/fitting-differential-equation-system-to.html
+https://data.world/lukewhyte/us-population-by-zip-code-2010-2016/workspace/file?filename=pop-by-zip-code.csv
+https://wwwn.cdc.gov/norsdashboard/
+https://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=260&DB_Short_Name=Air%20Carriers
+https://catalog.data.gov/dataset/500-cities-city-level-data-gis-friendly-format-845f9
+https://zombie.fandom.com/wiki/Zombie_Comparison_Chart
+
+
+
 
