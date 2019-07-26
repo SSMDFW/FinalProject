@@ -93,11 +93,11 @@ import numpy
 
 ## Authors
 
-Silvana Murphy- Initial Work - [SMU Team Crime- Project 2](https://github.com/SSMDFW)
+Silvana Murphy- Initial Work - [SMU Team Zombie - Project 3](https://github.com/SSMDFW)
 
-Lori Brady - Initial Work - [SMU Team Crime- Project 2](https://github.com/loribeth18)
+Lori Brady - Initial Work - [SMU Team Zombie - Project 3](https://github.com/loribeth18)
 
-Mabel Gutierrez- Initial Work - [SMU Team Crime- Project 2](https://github.com/mabel912)
+Mabel Gutierrez- Initial Work - [SMU Team Zombie - Project 3](https://github.com/mabel912)
 
-Velindia Lucas - Initial Work - [SMU Team Crime- Project 2](https://github.com/chele0630)
+Velindia Lucas - Initial Work - [SMU Team Zombie - Project 3](https://github.com/chele0630)
 
