@@ -44,15 +44,20 @@ The purpose is to determine the rate of which a virus(zombie outbreak) spreads w
 
 The following data sets were used throughout the project.
 
-### Vizsualization 1
-[![INSERT YOUR GRAPHIC HERE]()]()
+### Atlanta
+[![INSERT YOUR GRAPHIC HERE](atlantaAll.png)]()
 
-### Vizsualization 2
-[![INSERT YOUR GRAPHIC HERE](https://)]()
+### Chicago
+[![INSERT YOUR GRAPHIC HERE](chicagoAll.png)]()
 
+### Dallas
+[![INSERT YOUR GRAPHIC HERE](dallasAll.png)]()
 
-### Vizsualization 3
-[![INSERT YOUR GRAPHIC HERE]()]()
+### Los Angeles
+[![INSERT YOUR GRAPHIC HERE](los_angelesAll.png)]()
+
+### New York
+[![INSERT YOUR GRAPHIC HERE](new_yorkAll.png)]()
 
 
 
@@ -64,11 +69,6 @@ The following data sets were used throughout the project.
 
 
 ## Next steps
-
-
-## API Calls
-
-API call: 
 
 
 ## Coding Style
