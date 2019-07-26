@@ -7,8 +7,7 @@
 
 * [Team Zombie](#team-zombie)
 * [Purpose of the Analysis](#purpose-of-the-analysis)
-* [Methodology](#methodology)
-* [Key Documents](#key-documents)
+* [Visualizations](#visualizations)
 * [Findings](#findings)
 * [Coding Style](#coding-style)
 * [Coding Documentation](#coding-documentation)
@@ -60,7 +59,7 @@ The following data sets were used throughout the project.
 
 ### SEIR Model
 
-
+[![INSERT YOUR GRAPHIC HERE](seirVisuals.png)]()
 
 
 ## Findings
