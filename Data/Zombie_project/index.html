@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>7 Days Later</title>
+  <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+  <!--<script src="d3.min.js"></script>-->
+  <script src="https://ajax.googleapis.com/ajax/libs/d3js/5.9.0/d3.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <link rel="shortcut icon" href="#">
+  <!-- Our CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <!-- <link rel="stylesheet" type="css" href="static/css/style.css"> -->
+  <link rel="stylesheet" href="static/css/style.css">
+</head>
+
+<body>
+  <div class="jumbotron" img style="background-image:url(static/images/zombie_eye.png)">
+    <div style='text-align: center; margin-bottom: 45px'></div>
+    <h1>ZOMBIES!</h1>
+  </div>
+  <div style="float:right;">
+      <button id="download-csv" class="button">Download CSV File</button>
+  </div>
+  <div class="container" margin-left: 15px'>
+    <div style='text-align: left; margin-bottom: 25px'>
+      <div class="row" style='display: inline-block;'>
+        <div class="col-6 col-md-6">
+          <h1 class="dropdown-toggle" data-toggle="dropdown">Choose City:</h1>
+          <select name="Cities" id="citySelect" class="select-css">
+            <option value="0" selected>Major Cities</option>
+            <option value="atlanta">Atlanta</option>
+            <option value="dallas">Dallas</option>
+            <option value="newyork">New York</option>
+            <option value="losangeles">Los Angeles</option>
+            <option value="chicago">Chicago</option>
+          </select>
+          </li>
+        </div>
+        <div class="container">
+            <div style='text-align: center'>
+            <!-- <div style='text-align: right'> -->
+        <div class="col-6 col-md-6">
+          <h1 class="dropdown-toggle" data-toggle="dropdown" style="text-align: right">Choose Zombie:</h1>
+          <select style="position:absolute;width: 400px;margin-left: 200px;" id="zombieSelect" class="select-css">
+            <option value="0" selected>Movie Profile</option>
+            <option value="Living Dead Trilogy">Living Dead Trilogy</option>
+            <option value="28 Days Later">28 Days Later</option>
+            <option value="World War Z">World War Z (film)</option>
+            <option value="Zombieland">Zombieland</option>
+            <option value="The Walking Dead">The Walking Dead</option>
+          </select>
+        </div>
+      </div>
+      </div>
+    </div>
+    </div>
+  </div>
+  <div class="container">
+    <div style='margin-bottom: 25px'>
+    <div class="row" style='display: inline-block;' >
+      <div class="col-9 col-md-8">
+          <img src="static/images/starter_map.png" alt="United States Population" width="680" height="450" id="description-image" class="gifImage"/>
+      </div>
+      <div class="col-3 col-md-4" style="padding-left:55px;">
+        <div id="zombieplot">
+          <div>
+              <img src="static/images/gifs/plots/static_plot.jpg" width="380" height="250" id="plotimages" class="plotImage"/> 
+          </div>
+        </div>
+        <div id="zombieSelect">
+          <img src="static/images/gifs/movie/static_zombie.gif" id="zombieimages" width="380" height="200" class="staticImage"/> 
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>
+
+  <!-- Our JS -->
+  <script type="text/javascript" src="static/js/zombieGifs.js"></script>
+
+</body>
+
+</html>
